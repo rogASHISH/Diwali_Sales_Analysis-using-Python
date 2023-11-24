@@ -16,4 +16,7 @@ Analyze Diwali sales data using Python, exploring trends and patterns to gain in
 - Matplotlib
 - Seaborn
 
+## License
+This project is licensed under the [MIT License](LICENSE).
+
 Happy Diwali!
